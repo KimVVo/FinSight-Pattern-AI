@@ -11,8 +11,8 @@ from generators.patterns import (
 )
 
 
-NUM_SAMPLES_PER_CLASS = 25
-NUM_BACKGROUND_CANDLES = 48
+NUM_SAMPLES_PER_CLASS = 1250
+NUM_BACKGROUND_CANDLES = 50
 
 OUTPUT_DIR = Path("data/raw")
 
